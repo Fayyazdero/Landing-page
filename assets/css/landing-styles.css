@@ -60,6 +60,7 @@ ul li a {
     border-radius: 50px;
     color: #1A56DB;
     padding: 16px 32px;
+    cursor: pointer;
 }
 
 .signup-btnn {
@@ -68,6 +69,7 @@ ul li a {
     border-radius: 50px;
     color: #ffffff;
     padding: 16px 32px;
+    cursor: pointer;
 }
 
 .hamburger-menu {
@@ -102,6 +104,7 @@ ul li a {
 }
 
 .requestdemo-btnn {
+    cursor: pointer;
     padding: 10px 31px;
     border-radius: 50px;
     background: none;
@@ -190,6 +193,7 @@ input {
 }
 
 .show-more-btn {
+    cursor: pointer;
     padding: 12px 29px;
     border-radius: 50px;
     color: #1A56DB;
@@ -213,6 +217,7 @@ input {
 }
 
 #poster-btn {
+    cursor: pointer;
     padding: 12px 30px;
     color: #F4F4F4;
     background: #1A56DB;
@@ -473,6 +478,7 @@ input {
 
     .gift-btnn {
         padding: 16px 4px;
+        cursor: pointer;
     }
 
     .poster-card {
